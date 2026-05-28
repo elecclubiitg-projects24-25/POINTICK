@@ -15,7 +15,8 @@ Users can move the cursor, click, drag, and scroll using hand movements and flex
   - 1 Raspberry Pi Pico W
   - 3 Flex Sensors (Index & Middle Finger)
   - MPU6050 (Accelerometer + Gyroscope)
-  - A 3.3V Battery (Alternatively using another battery with a suitable buck convertor)
+  - A 3.7V lithium Ion Battery
+  - Buck converter (to convert 3.7V to 3.3V for externally powering Raspberry Pi Pico W)
   - A battery holder
   - a perfboard
   - 10 kilo ohm resistors
