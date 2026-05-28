@@ -26,5 +26,8 @@ Users can move the cursor, click, drag, and scroll using hand movements and flex
 
   - 1 Raspberry Pi Pico W
   - 1 USB Connection to PC
+
+ <img width="1280" height="960" alt="Pointick" src="https://github.com/user-attachments/assets/531aac3f-bba0-4a76-b308-8a7350e84670" />
+
  
 
